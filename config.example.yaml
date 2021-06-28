@@ -1,0 +1,13 @@
+server: irc.libera.chat:+6697
+nickname: jesscloaks
+password: jesscloaks:hunter2
+channel: "#libera-cloak"
+
+sasl:
+  username: jesscloaks
+  password: hunter3
+
+oper:
+  name: jesscloaks
+  file: ~/libera.key
+  pass: hunter4
